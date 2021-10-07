@@ -1,0 +1,46 @@
+*{ 
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    text-decoration: none;
+    background-color: lightgray;
+} 
+
+
+
+
+html {
+    familia de fuentes: 'Playfair Display', serif;
+}
+
+.container{
+    width: 100%;
+    height: auto;
+    text-align:justify:start;
+    align-items: center;
+  
+    
+}
+
+.container h1 {
+    text-align:justify:start;
+    margin-top: 0px;
+    font-size: 60px;
+
+
+}
+.container h2 {
+    text-align:justify:start ;
+    margin-top: 20px;
+    font-size: 22px;
+}
+    
+.container p {
+    text-align:justify:start;
+    margin-top: 30px;
+    font-size: 20px;
+}
+#img {
+    float: right;
+
+}
