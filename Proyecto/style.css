@@ -1,0 +1,159 @@
+
+.nav{
+    background-color: hsl(17, 68%, 89%);
+    padding-right: 12%;
+    font-family: sans-serif;
+
+}
+
+.nav2{
+    background-color:hsl(17, 68%, 89%);
+    padding-right: 12%;
+    font-family: sans-serif;
+    
+}
+.nav-item{
+    padding-top:2%;
+    font-size: 110%;
+  
+   
+}
+
+.nav-link{
+    color: blanchedalmond;
+}
+
+.nav-item{
+    padding-top:2%;
+    color:ivory;
+}
+.logo{
+    background-color:hsl(17, 68%, 89%);
+}
+
+.conteiner1{
+    background-color:hsl(17, 68%, 89%);
+}
+
+.conteiner2{
+    background-color: hsl(17, 68%, 89%);
+}
+
+.logo2{
+    background-color:hsl(17, 68%, 89%);
+}
+
+.texto1{
+    background-color: #ee0808;
+    font-size: 170%;
+    color: #fafaff;
+
+}
+.formulario{
+    background-color: black;
+   font-family: initial;
+   color: ivory;
+   margin-left: auto;
+   margin-right: auto;
+   font-size: 110%;
+  
+}
+
+.formulario2{
+    background-color: black;
+    font-family: initial;
+    color: rgb(246, 246, 240);
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 110%;
+
+}
+
+.boton2{
+    background-color: mediumblue;
+    color: whitesmoke;
+}
+
+
+.boton{
+    background-color: mediumblue;
+    color: whitesmoke;
+}
+
+.pie{
+    background-color: black;
+    color:ivory;
+    padding-top: 6%;
+    padding-left: 40%;
+    padding-right: 30%;
+    padding-bottom: 6%;
+}
+
+.pie2{
+    background-color: black;
+    color:ivory;
+    padding-top: 6%;
+    padding-left: 40%;
+    padding-right: 30%;
+    padding-bottom: 6%;
+    margin-top: 3%;
+}
+
+.titulo{
+    color: brown;
+    padding-left: 5%;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 3%;
+}
+
+.titulo2{
+    color: brown;
+    padding-left: 5%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.btn-wsp{
+    position: fixed;
+    width: 55px;
+    height: 55px;
+    right: 30px;
+    line-height: 55px;
+    bottom: 30px;
+    background-color: #0df053;
+    color: #fff;
+    border-radius: 50px;
+    text-align: center;
+    font-size: 30px;
+    box-shadow: opx 1px 10px rgba(0,0,0,0,3);z-index: 100;
+
+}
+.whatsapp{
+    width: 55px;
+    height: 55px;
+}
+
+.btn-wsp:hover{
+
+    text-decoration: none;
+    color:#0df053;
+    background-color:#fff;
+}
+
+@media only screen and (min-width:320px) 
+and (max-width:768px){
+    .btn-wsp{
+        width: 63px;
+        height: 63px;
+        line-height: 66px;
+    }
+
+}
+
+   
+
+
+
+
+
+
+
